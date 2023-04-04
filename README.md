@@ -1,4 +1,4 @@
-# \[SnakeCity\]
+# SnakeCity
 
 **Group members:**
 - Hans Christian
