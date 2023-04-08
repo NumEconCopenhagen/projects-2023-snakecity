@@ -1,7 +1,7 @@
 # SnakeCity
 
 **Group members:**
-- Hans Christian
+- Hans Christian Haaber
 
 This repository contains  
 1. Inaugural project **[first upload]**
