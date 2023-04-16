@@ -1,11 +1,9 @@
-# \[Group name\]
+# SnakeCity
 
 **Group members:**
-- A
-- B
-- C
+- Hans Christian Haaber
 
 This repository contains  
-1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
-3. Model project. We model ...
+1. Inaugural project **[first upload]**
+2. Data project **[not started]**: We fetch data from **source x** on **y** and show that ...
+3. Model project **[not started]**: We model ...
