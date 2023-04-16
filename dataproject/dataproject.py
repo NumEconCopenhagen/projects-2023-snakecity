@@ -1,16 +1,32 @@
-def keep_regs(df, regs):
-    """ Example function. Keep only the subset regs of regions in data.
-
-    Args:
-        df (pd.DataFrame): pandas dataframe 
-
-    Returns:
-        df (pd.DataFrame): pandas dataframe
-
-    """ 
-    
-    for r in regs:
-        I = df.reg.str.contains(r)
-        df = df.loc[I == False] # keep everything else
-    
-    return df
+# settings for plots
+import seaborn as sns
+sns.set(font='Franklin Gothic Book',
+        rc={
+ 'axes.axisbelow': False,
+ 'axes.edgecolor': 'lightgrey',
+ 'axes.facecolor': 'None',
+ 'axes.grid': False,
+ 'axes.grid.axis': 'both',
+ 'axes.grid.which': 'major',
+ 'grid.color': 'dimgrey',
+ 'grid.linestyle': '-',
+ 'grid.linewidth': '0.8',
+ 'grid.alpha': '1.0',
+ 'axes.labelcolor': 'dimgrey',
+ 'axes.spines.right': True,
+ 'axes.spines.top': False,
+ 'figure.facecolor': 'white',
+ 'lines.solid_capstyle': 'round',
+ 'patch.edgecolor': 'w',
+ 'patch.force_edgecolor': True,
+ 'text.color': 'dimgrey',
+ 'xtick.bottom': False,
+ 'xtick.color': 'lightgrey',
+ 'xtick.labelcolor': 'dimgrey',
+ 'xtick.direction': 'out',
+ 'xtick.top': False,
+ 'ytick.color': 'lightgrey',
+ 'ytick.labelcolor': 'dimgrey',
+ 'ytick.direction': 'out',
+ 'ytick.left': True,
+ 'ytick.right': False})
