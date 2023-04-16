@@ -1,6 +1,6 @@
 # Data analysis project
 
-My project is titled **Data project: The fishing industry in Denmark ** and is about select data on the Danish fishing industry.
+My project is titled **Data project: The fishing industry in Denmark** and is about select data on the Danish fishing industry.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
