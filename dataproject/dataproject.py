@@ -1,6 +1,6 @@
 # settings for plots
 import seaborn as sns
-sns.set(font='Franklin Gothic Book',
+sns.set(font='Segoe UI',
         rc={
  'axes.axisbelow': False,
  'axes.edgecolor': 'lightgrey',
