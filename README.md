@@ -5,5 +5,5 @@
 
 This repository contains  
 1. Inaugural project **[first upload]**
-2. Data project **[not started]**: We fetch data from **source x** on **y** and show that ...
-3. Model project **[not started]**: We model ...
+2. Data project **[first upload]**: Exploration of data from Statistics Denmark on the Danish fishing industry.
+3. Model project **[first upload]**: Modelling the general Solow model with land and oil.
